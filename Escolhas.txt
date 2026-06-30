@@ -1,0 +1,27 @@
+Enquanto você está dentro da sala de aula, o que você faz?
+1- prestar atenção na aula
+2- observar outros alunos
+
+se:
+1 = +10 aprendizagem e pula até o intervalo
+2 = cena da garota de cabelo vermelho
+
+após você ficar observando a garota, ela repara e pula a cena pro intervalo
+
+se você observou ela, hora de sair da sala mas com interação
+
+o nerd da sala chega em você e atrapalha antes que você possa ter alguma interação com a garota, quando você volta para a garota, você pergunta o nome dela meio envergonhado
+
+-- ignora isso, qual o seu nome? o meu é {nome} 
+
+cena do ex namorado
+
+o que você responde pro ex namorado:
+1- ficar quieto
+2- quem que você está chamando de baixinho?(confrontar)
+3- quem você pensa que é? vaza daqui, ela não te quer(defender ela)
+
+se:
+1- ele apenas sai
+2- ele te chama para brigar depois da aula
+3- ele diz "se toca, tu acha que ela vai querer um tampinha como você?"
