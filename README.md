@@ -1,9 +1,9 @@
 # Prática de Versionamento 20261V1
-Projeto de jogo do tipo aventura em texto da primeira fase do técnico de programação de jogos - UC  de Versionamento
+Projeto de jogo do tipo aventura em texto da primeira fase do técnico de programação de jogos - UC  de Versionamento e colaboração
 
 Jogo de aventura em texto desenvolvido colaborativamente pelos estudantes da UC Versionamento e Colaboração.
 
-## Objetivo
+## Objetivo do jogo
 
 Concluir a primeira fase do curso técnico enfrentando desafios reais da vida estudantil.
 
@@ -29,6 +29,6 @@ Capítulo 3 - Encerramento da Primeira Fase
 
 1. Clonar o repositório
 2. Entrar na branch da squad
-3. Realizar commits frequentes
+3. Desenvolver o jogo e realizar commits frequentes dentro da branch da squad
 4. Resolver conflitos
 5. Abrir Pull Request
