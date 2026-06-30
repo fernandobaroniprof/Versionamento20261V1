@@ -1,4 +1,4 @@
-public static class Variáveis
+public static class Variaveis
 {    
     public static int Dinheiro = 50;
     public static int Energia = 80;
