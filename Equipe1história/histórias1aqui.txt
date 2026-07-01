@@ -1,0 +1,51 @@
+Nome: Helen 
+
+Helen um dia aceitou fazer um contrato com o SENAI como beta tester       
+Helen foi chamada para testar um novo jogo VR, e como de costume, ela vai cumprir seu serviço.
+Quando Helen chega no local do teste, coloca o Óculos VR com entusiasmo, o jogo funciona normalmente, mas quando Helen tenta retirar os óculos, descobre que misteriosamente ela está no universo desse jogo.
+
+
+
+história:
+
+hora de decisão:
+Helen chegou no mundo 2D e olhou para suas mãos sem entender nada e depois tentando tirar o VR mas parecendo não ter nada. Ela olha para o mundo 2D ao redor pensando no que fazer.
+
+Oque ela faz?
+
+Rota A. Explorar o mundo
+
+Rota B. Matar um monstro por perto
+
+—-----------------------------------------------------------------------------------------------------------------
+
+
+Rota A:Helen vai explorar o mundo olhando para monstros desviando deles até chegar numa vila com Humanos
+
+Rota A: Helen anda pelas vilas dos humanos olhando tudo ao redor a magia, a natureza e os poderes até ver uma mulher brigando com um orangotango e deixando a mulher com marcas. O'Que você vai fazer?
+
+Escolha A:
+
+A. Ajuda ela?
+B. Ignorar e continuar andando?
+
+Escolha AA:Helen ajuda ela tentando tirar o orangotango mas o orangotango é muito forte dando nocaute nela com um soco. Dois aventureiros vão ajudar ela enquanto as autoridades pegam o orangotango. Terminando o primeiro dia. (Rota A)
+
+Escolha AB:Helen decide ignorar e continuar com o caminho dela olhando para os lados mas sem dinheiro ela não conseguia achar um lugar tendo que sair de lá e quando ela foi ver ela estava na floresta perdida. Até achar uma casa da árvore. ela grita mas sem resposta, então ela sobe e entra. vendo ninguém ela decide ficar lá só por aquela noite. (Rota B)
+
+—-----------------------------------------------------------------------------------------------------------------
+Rota B:Helen vai matar o monstro de nível 1 que estava matando uma galinha e fica batendo nele até matar o pobre do slime. Helen ganhou alguns ouros e olhou pra caverna vendo A rainha dos slimes brava e ela teve que correr depois disso.
+
+Rota B: Depois de correr muito da slime rainha chegou em uma floresta e viu um mercador. Podendo comprar uma poção bem barata por causa do slime que ela matou. Ela tenta perguntar para o mercador uma saída ou alguma coisa mas ele não responde. Helen vai comprar a poção?
+
+Escolhas B:
+
+B:Sim.
+A:Não.
+
+Escolha BA:
+Comprando a poção Helen decidiu tomar e sentiu um calafrio antes de ficar meio tonta indo pra um arbusto pra vomitar. Depois de vomitar, ainda se sentindo mal, foi andando até cair de dor. Quando ela estava quase fechando os olhos tudo ficando borrado ela vê dois aventureiros antes de ficar inconsciente terminando o dia. (Rota A)
+
+Escolha BB:
+
+Helen decidiu não confiar no estranho mercador e continuou na sua jornada andando pela floresta. Olhando para cima ela achou uma casa da árvore, tendo luzes ela bateu as palmas e sem nenhuma luz acesa e estava frio lá fora, então ela entrou. Vendo que era aconchegante e não tinha ninguém, ela ficou ali até dormir terminando o dia. (Rota B)
